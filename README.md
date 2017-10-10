@@ -3,4 +3,5 @@ convierte tu edad en segundos
 
 ## Diagrama de Flujo
 
-![Ejercicio](C:\Users\ELENA\Desktop\Cesar.jpg "Ejercicio")
+![Ejercicio][img1]
+[img1]: C:\Users\ELENA\Desktop\Cesar.jpg "Ejercicio"

@@ -21,6 +21,10 @@
   
 ![cifradoa](https://user-images.githubusercontent.com/32310087/31506149-3f4f0e8e-af3c-11e7-8e43-9f18033c9127.PNG)
 
+<p> Contamos 33 espacios hacia la derecha y obtenemos la letra H <p>
+  
+ ![cifradoh](https://user-images.githubusercontent.com/32310087/31506346-bd59712a-af3c-11e7-8f50-e682b7205453.PNG)
+
 ## Diagrama de Flujo:
 
 
